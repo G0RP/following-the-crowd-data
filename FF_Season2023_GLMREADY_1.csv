@@ -1,0 +1,497 @@
+,whale_vessel_distance,latitude,longitude,site_,date,weekday,time,focal_follow_,ff_cont,species,behaviour,calf_present,ecotour_presence,vessel_type,whale_mentioned_on_radio,vessel_speed,vessel_id,time_with_whale,median_vessels,time_ff,regulation_distance,dist_from_reg
+16,67.59,50.5731208,-126.7050155,Orca Lab,2023-07-12,Weekday,17:21,1,1,Humpback,Resting,no,0,Commercial,no,Fast,1,4,1,38,100,-32.41
+783,913.25,50.5732247,-126.7049524,Orca Lab,2023-07-12,Weekday,17:30,1,1,Humpback,Resting,no,0,Commercial,no,Slow/Med.,2,2,1,38,100,813.25
+755,878.23,50.5731553,-126.7049948,Orca Lab,2023-07-12,Weekday,17:59,1,1,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,3,2,1,38,100,778.23
+12,34.09,50.5732016,-126.7049571,Orca Lab,2023-07-14,Weekday,8:40,1,2,Humpback,Travel,no,0,Rec. Non-Fishing,no,Fast,2,6,1,6,100,-65.91
+274,367.75,50.573227,-126.7049684,Orca Lab,2023-07-14,Weekday,8:46,1,2,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,3,2,1,6,100,267.75
+525,615.17,50.5732003,-126.7049392,Orca Lab,2023-07-14,Weekday,9:15,2,3,Humpback,Resting,no,0,Rec. Non-Fishing,no,Idle,1,2,1,2,100,515.17
+221,322.91,50.5731987,-126.7050315,Orca Lab,2023-07-14,Weekday,11:41,3,4,Humpback,Travel,no,0,Rec. Non-Fishing,no,Idle,1,2,1,3,100,222.91
+37,122.63,50.5732609,-126.7049868,Orca Lab,2023-07-14,Weekday,12:10,4,5,Humpback,Foraging,no,1,Ecotour,no,Idle,1,13,1,33,100,22.63
+363,469.92,50.5733108,-126.7052584,Orca Lab,2023-07-14,Weekday,12:41,4,5,Humpback,Foraging,no,1,Rec. Fishing,no,Slow/Med.,3,2,1,33,100,369.92
+399,506.13,50.5731578,-126.7050263,Orca Lab,2023-07-14,Weekday,12:43,4,5,Humpback,Foraging,no,1,Rec. Fishing,no,Slow/Med.,4,2,1,33,100,406.13
+742,863.78,50.5741142,-126.7067457,Orca Lab,2023-07-14,Weekday,13:15,6,6,Humpback,Travel,no,0,Rec. Non-Fishing,no,Idle,1,2,1,2,100,763.78
+109,217.68,50.5729846,-126.7050551,Orca Lab,2023-07-14,Weekday,14:00,7,7,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,1,2,2,2,200,17.68
+249,348.39,50.5729977,-126.7050663,Orca Lab,2023-07-14,Weekday,14:01,7,7,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,2,2,2,2,200,148.39
+300,402.77,50.5729977,-126.7050663,Orca Lab,2023-07-14,Weekday,14:01,7,7,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,3,2,2,2,200,202.77
+329,433.11,50.5731071,-126.7050151,Orca Lab,2023-07-14,Weekday,14:12,8,8,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,1,6,2.5,17,200,233.11
+412,515.27,50.5731071,-126.7050151,Orca Lab,2023-07-14,Weekday,14:13,8,8,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,2,16,2.5,17,200,315.27
+413,515.27,50.5731071,-126.7050151,Orca Lab,2023-07-14,Weekday,14:13,8,8,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,2,15,2.5,17,200,315.27
+414,515.27,50.5731071,-126.7050151,Orca Lab,2023-07-14,Weekday,14:14,8,8,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,3,16,2.5,17,200,315.27
+415,515.27,50.5731071,-126.7050151,Orca Lab,2023-07-14,Weekday,14:14,8,8,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,3,15,2.5,17,200,315.27
+295,394.32,50.5729612,-126.7050901,Orca Lab,2023-07-14,Weekday,14:28,8,8,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,5,2,2.5,17,200,194.32
+544,636.29,50.5729497,-126.7050961,Orca Lab,2023-07-14,Weekday,14:28,8,8,Orca,Travel,yes,1,Ecotour,yes,Slow/Med.,4,16,2.5,17,200,436.29
+782,912.87,50.572977,-126.7050883,Orca Lab,2023-07-14,Weekday,14:29,8,8,Orca,Travel,yes,1,Rec. Non-Fishing,yes,Idle,6,2,2.5,17,200,712.87
+71,163.44,50.5730715,-126.705058,Orca Lab,2023-07-14,Weekday,14:32,9,9,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,3,2,5,22,100,63.44
+91,187.73,50.5730715,-126.705058,Orca Lab,2023-07-14,Weekday,14:32,9,9,Humpback,Travel,no,1,Ecotour,yes,Idle,4,2,5,22,100,87.73
+617,714.13,50.5730715,-126.705058,Orca Lab,2023-07-14,Weekday,14:32,9,9,Humpback,Travel,no,1,Ecotour,yes,Idle,5,2,5,22,100,614.13
+623,719.33,50.5730715,-126.705058,Orca Lab,2023-07-14,Weekday,14:32,9,9,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,6,2,5,22,100,619.33
+624,719.33,50.5731004,-126.7050724,Orca Lab,2023-07-14,Weekday,14:32,9,9,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,6,2,5,22,100,619.33
+753,876.45,50.5730917,-126.7050889,Orca Lab,2023-07-14,Weekday,14:32,9,9,Humpback,Travel,no,1,Ecotour,yes,Idle,1,2,5,22,100,776.45
+311,412.28,50.5731154,-126.7050904,Orca Lab,2023-07-14,Weekday,14:42,9,9,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,7,2,5,22,100,312.28
+232,336.5,50.5731168,-126.7050906,Orca Lab,2023-07-14,Weekday,14:43,9,9,Humpback,Travel,no,1,Ecotour,yes,Idle,2,11,5,22,100,236.5
+613,709.46,50.5731209,-126.7050306,Orca Lab,2023-07-14,Weekday,15:22,10,10,Humpback,Travel,no,0,Rec. Fishing,yes,Slow/Med.,1,2,1,2,100,609.46
+261,357.13,50.5731461,-126.7051791,Orca Lab,2023-07-15,Weekend,9:42,2,11,Humpback,Resting,no,0,Rec. Fishing,yes,Idle,2,14,1,15,100,257.13
+597,691.38,50.572986,-126.7050703,Orca Lab,2023-07-15,Weekend,10:25,3,12,Humpback,Resting,no,1,Commercial,no,Slow/Med.,3,22,1,29,100,591.38
+160,262.98,50.572986,-126.7050703,Orca Lab,2023-07-15,Weekend,10:27,3,12,Humpback,Resting,no,1,Ecotour,no,Slow/Med.,1,18,1,29,100,162.98
+332,438.27,50.572986,-126.7050703,Orca Lab,2023-07-15,Weekend,10:27,3,12,Humpback,Resting,no,1,Commercial,no,Slow/Med.,3,22,1,29,100,338.27
+81,180.4,50.5730138,-126.7050633,Orca Lab,2023-07-15,Weekend,10:35,3,12,Humpback,Travel,no,1,Rec. Fishing,no,Fast,5,2,1,29,100,80.4
+183,280.34,50.572986,-126.7050703,Orca Lab,2023-07-15,Weekend,10:42,3,12,Humpback,Resting,no,1,Rec. Non-Fishing,no,Idle,2,19,1,29,100,180.34
+480,569.91,50.572986,-126.7050703,Orca Lab,2023-07-15,Weekend,10:45,3,12,Humpback,Resting,no,1,Rec. Non-Fishing,no,Fast,4,2,1,29,100,469.91
+406,510.42,50.5729901,-126.7050196,Orca Lab,2023-07-15,Weekend,11:20,4,13,Humpback,Travel,no,0,Rec. Fishing,no,Idle,2,2,1,2,100,410.42
+334,439.91,50.5730079,-126.7049998,Orca Lab,2023-07-15,Weekend,12:23,5,14,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,1,2,1,7,100,339.91
+57,155.38,50.5730369,-126.7050942,Orca Lab,2023-07-15,Weekend,12:28,5,14,Humpback,Travel,no,0,Commercial,no,Slow/Med.,2,2,1,7,100,55.38
+738,859.76,50.5729709,-126.7050607,Orca Lab,2023-07-15,Weekend,12:30,5,14,Humpback,Travel,no,0,Commercial,no,Slow/Med.,3,2,1,7,100,759.76
+52,151.58,50.5732622,-126.7053207,Orca Lab,2023-07-15,Weekend,14:38,8,15,Humpback,Foraging,no,1,Ecotour,no,Idle,1,2,1,4,100,51.58
+364,470.9,50.5731088,-126.7052298,Orca Lab,2023-07-15,Weekend,14:42,8,15,Humpback,Foraging,no,1,Rec. Non-Fishing,no,Fast,2,2,1,4,100,370.9
+140,247.96,50.5730358,-126.7050315,Orca Lab,2023-07-15,Weekend,14:45,9,16,Humpback,Travel,no,1,Ecotour,yes,Slow/Med.,1,14,1,15,100,147.96
+213,310.24,50.5730358,-126.7050315,Orca Lab,2023-07-15,Weekend,14:47,9,16,Humpback,Travel,no,1,Ecotour,yes,Idle,3,4,1,15,100,210.24
+220,322.89,50.5730358,-126.7050315,Orca Lab,2023-07-15,Weekend,14:48,9,16,Humpback,Travel,no,1,Rec. Fishing,yes,Fast,4,2,1,15,100,222.89
+574,660.41,50.5730315,-126.7050302,Orca Lab,2023-07-15,Weekend,14:59,9,16,Humpback,Travel,no,1,Commercial,yes,Slow/Med.,8,2,1,15,100,560.41
+575,660.41,50.5730315,-126.7050302,Orca Lab,2023-07-15,Weekend,14:59,9,16,Humpback,Travel,no,1,Commercial,yes,Slow/Med.,8,2,3,4,100,560.41
+25,103.46,50.5729529,-126.7050333,Orca Lab,2023-07-15,Weekend,16:20,10,17,Humpback,Travel,no,1,Ecotour,yes,Idle,2,4,1,5,100,3.46
+138,247.02,50.5730275,-126.7051021,Orca Lab,2023-07-15,Weekend,16:22,10,17,Humpback,Travel,no,1,Ecotour,yes,Slow/Med.,1,5,1,5,100,147.02
+780,909.08,50.5731932,-126.7050214,Orca Lab,2023-07-15,Weekend,17:11,11,18,Humpback,Travel,no,0,Commercial,no,Slow/Med.,1,2,1,2,100,809.08
+112,219.85,50.5731211,-126.7052238,Orca Lab,2023-07-16,Weekend,10:41,1,19,Humpback,Resting,no,1,Ecotour,yes,Idle,1,6,2,6,100,119.85
+72,166.36,50.5729517,-126.7051787,Orca Lab,2023-07-16,Weekend,10:47,1,19,Humpback,Surface Activity,no,1,Rec. Fishing,yes,Slow/Med.,4,2,2,6,100,66.36
+496,587.85,50.5729514,-126.705211,Orca Lab,2023-07-16,Weekend,10:47,1,19,Humpback,Surface Activity,no,1,Ecotour,yes,Slow/Med.,2,5,2,6,100,487.85
+23,97.92,50.5729517,-126.7051787,Orca Lab,2023-07-16,Weekend,11:15,2,20,Humpback,Resting,no,1,Rec. Non-Fishing,yes,Slow/Med.,1,2,1,2,100,-2.08
+101,207.32,50.5729517,-126.7051787,Orca Lab,2023-07-16,Weekend,11:16,2,20,Humpback,Resting,no,1,Ecotour,yes,Slow/Med.,2,2,1,2,100,107.32
+416,515.99,50.573014,-126.7050805,Orca Lab,2023-07-16,Weekend,11:26,3,21,Humpback,Travel,no,1,Rec. Fishing,yes,Slow/Med.,2,2,1.5,16,100,415.99
+497,588.6,50.5729724,-126.7050666,Orca Lab,2023-07-16,Weekend,11:35,3,21,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Idle,4,2,1.5,16,100,488.6
+195,286.52,50.5730778,-126.7050844,Orca Lab,2023-07-16,Weekend,11:42,3,21,Humpback,Travel,no,1,Ecotour,yes,Slow/Med.,1,16,1.5,16,100,186.52
+203,300.79,50.5730778,-126.7050844,Orca Lab,2023-07-16,Weekend,11:42,3,21,Humpback,Travel,no,1,Rec. Fishing,yes,Fast,6,2,1.5,16,100,200.79
+589,678.52,50.5731544,-126.7050895,Orca Lab,2023-07-16,Weekend,12:20,5,22,Humpback,Travel,no,0,Rec. Non-Fishing,yes,Fast,1,2,1,22,100,578.52
+30,114.02,50.5730431,-126.7050648,Orca Lab,2023-07-16,Weekend,12:42,5,22,Humpback,Travel,no,0,Rec. Non-Fishing,yes,Idle,2,10,1,22,100,14.02
+293,391.76,50.573113,-126.7049958,Orca Lab,2023-07-16,Weekend,15:16,10,23,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,1,10,1,10,100,291.76
+292,391.38,50.5730893,-126.7051587,Orca Lab,2023-07-16,Weekend,15:18,10,23,Humpback,Travel,no,1,Ecotour,no,Idle,1,10,1,10,100,291.38
+284,382.03,50.5730893,-126.7051587,Orca Lab,2023-07-16,Weekend,15:23,10,23,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,1,10,1,10,100,282.03
+188,282.23,50.5730893,-126.7051587,Orca Lab,2023-07-16,Weekend,15:26,10,23,Humpback,Travel,no,1,Ecotour,no,Idle,1,10,1,10,100,182.23
+28,112.67,50.57423911,-126.7062438,Orca Lab,2023-07-16,Weekend,16:20,11,24,Humpback,Resting,no,1,Rec. Fishing,yes,Fast,2,3,3,23,100,12.67
+139,247.28,50.57434871,-126.7070012,Orca Lab,2023-07-16,Weekend,16:40,11,24,Humpback,Resting,no,1,Ecotour,yes,Idle,3,14,3,23,100,147.28
+285,382.24,50.57428975,-126.706852,Orca Lab,2023-07-16,Weekend,16:40,11,24,Humpback,Resting,no,1,Rec. Non-Fishing,yes,Idle,1,20,3,23,100,282.24
+805,934.72,50.57427351,-126.7068497,Orca Lab,2023-07-16,Weekend,16:40,11,24,Humpback,Resting,no,1,Rec. Non-Fishing,yes,Idle,648,2,3,23,100,834.72
+133,240.28,50.5729891,-126.7056217,Orca Lab,2023-07-18,Weekday,8:55,1,25,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,1,4,1,4,100,140.28
+78,177.27,50.5730614,-126.7050622,Orca Lab,2023-07-18,Weekday,8:59,1,25,Humpback,Travel,no,0,Rec. Non-Fishing,no,Idle,1,4,1,4,100,77.27
+502,595.97,50.5730359,-126.705101,Orca Lab,2023-07-18,Weekday,11:10,2,26,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,2,2,2,2,100,495.97
+508,604.18,50.5730074,-126.7050295,Orca Lab,2023-07-18,Weekday,11:10,2,26,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,2,2,100,504.18
+80,180.29,50.5730671,-126.7049929,Orca Lab,2023-07-18,Weekday,13:59,4,27,Humpback,Travel,no,1,Rec. Non-Fishing,no,Fast,3,2,3,2,100,80.29
+131,239.92,50.5730671,-126.7049929,Orca Lab,2023-07-18,Weekday,13:59,4,27,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,2,4,3,2,100,139.92
+196,286.53,50.5730671,-126.7049929,Orca Lab,2023-07-18,Weekday,13:59,4,27,Humpback,Travel,no,1,Rec. Non-Fishing,no,Slow/Med.,1,2,3,2,100,186.53
+810,939.59,50.5729709,-126.7050855,Orca Lab,2023-07-19,Weekday,12:25,3,28,Humpback,Travel,no,1,Rec. Fishing,no,Slow/Med.,2,2,1,25,100,839.59
+233,336.58,50.5729709,-126.7050855,Orca Lab,2023-07-19,Weekday,12:35,3,28,Humpback,Travel,no,1,Ecotour,no,Idle,1,10,1,25,100,236.58
+265,362.82,50.5729874,-126.7050307,Orca Lab,2023-07-19,Weekday,17:46,4,29,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,1,2,100,262.82
+792,923.79,50.5742515,-126.70641,Orca Lab,2023-07-22,Weekend,8:32,1,30,Humpback,Travel,no,0,Commercial,no,Slow/Med.,2,4,1,4,100,823.79
+679,780.38,50.5742488,-126.7064043,Orca Lab,2023-07-22,Weekend,8:36,1,30,Humpback,Travel,no,0,Rec. Non-Fishing,no,Fast,1,4,1,4,100,680.38
+448,546,50.5741188,-126.706398,Orca Lab,2023-07-22,Weekend,9:15,2,31,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,446
+449,546,50.574258,-126.7062975,Orca Lab,2023-07-22,Weekend,9:15,2,31,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,446
+485,574.11,50.574207,-126.7063654,Orca Lab,2023-07-22,Weekend,12:18,5,32,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Fast,2,2,1,10,100,474.11
+267,364.29,50.5742036,-126.7063843,Orca Lab,2023-07-22,Weekend,12:28,5,32,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,4,2,1,10,100,264.29
+264,362.35,50.5741922,-126.7063566,Orca Lab,2023-07-22,Weekend,12:39,6,33,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,1,2,100,262.35
+548,639.9,50.5742051,-126.706257,Orca Lab,2023-07-22,Weekend,13:13,7,34,Humpback,Resting,no,0,Rec. Fishing,no,Fast,2,2,2,44,100,539.9
+711,811.12,50.5742005,-126.7061991,Orca Lab,2023-07-22,Weekend,13:13,7,34,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,2,44,100,711.12
+522,612.72,50.5742312,-126.7062712,Orca Lab,2023-07-22,Weekend,13:57,7,34,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,6,2,2,44,100,512.72
+134,241.3,50.5741958,-126.7061844,Orca Lab,2023-07-22,Weekend,14:32,9,35,Humpback,Travel,no,1,Ecotour,yes,Idle,1,5,2,14,100,141.3
+107,215.45,50.5742025,-126.7061695,Orca Lab,2023-07-22,Weekend,14:38,9,35,Humpback,Travel,no,1,Rec. Fishing,yes,Slow/Med.,3,14,2,14,100,115.45
+651,752.66,50.5742025,-126.7061695,Orca Lab,2023-07-22,Weekend,14:38,9,35,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,2,3,2,14,100,652.66
+56,155.32,50.5741936,-126.7061954,Orca Lab,2023-07-22,Weekend,14:45,10,36,Humpback,Resting,no,0,Rec. Non-Fishing,yes,Slow/Med.,1,13,2,12,100,55.32
+802,933.72,50.574193,-126.7061963,Orca Lab,2023-07-22,Weekend,14:45,10,36,Humpback,Resting,no,0,Rec. Non-Fishing,yes,Fast,3,2,2,12,100,833.72
+187,281.87,50.5742644,-126.7062094,Orca Lab,2023-07-22,Weekend,15:21,11,37,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,2,5,2,42,100,181.87
+283,381.57,50.5742644,-126.7062094,Orca Lab,2023-07-22,Weekend,15:21,11,37,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,1,5,2,42,100,281.57
+625,720.11,50.5742644,-126.7062094,Orca Lab,2023-07-22,Weekend,15:21,11,37,Humpback,Travel,no,1,Ecotour,no,Idle,3,2,2,42,100,620.11
+620,716.35,50.5742644,-126.7062094,Orca Lab,2023-07-22,Weekend,15:27,11,37,Humpback,Travel,no,1,Rec. Non-Fishing,no,Fast,5,2,2,42,100,616.35
+153,257.25,50.5743265,-126.7060067,Orca Lab,2023-07-22,Weekend,15:42,11,37,Humpback,Resting,no,1,Rec. Non-Fishing,no,Slow/Med.,6,8,2,42,100,157.25
+70,162.84,50.5742606,-126.7062564,Orca Lab,2023-07-22,Weekend,15:48,11,37,Humpback,Resting,no,1,Rec. Non-Fishing,no,Slow/Med.,7,6,2,42,100,62.84
+804,933.96,50.5742606,-126.7062564,Orca Lab,2023-07-22,Weekend,15:48,11,37,Humpback,Resting,no,1,Rec. Non-Fishing,no,Fast,8,2,2,42,100,833.96
+343,448,50.5742606,-126.7062564,Orca Lab,2023-07-22,Weekend,15:58,11,37,Humpback,Resting,no,1,Ecotour,no,Idle,9,2,2,42,100,348
+216,313.36,50.5742476,-126.706256,Orca Lab,2023-07-22,Weekend,16:15,12,38,Humpback,Resting,no,1,Ecotour,no,Idle,9,2,1,39,100,213.36
+257,352.65,50.574232,-126.706223,Orca Lab,2023-07-22,Weekend,16:22,12,38,Humpback,Resting,no,1,Rec. Non-Fishing,no,Idle,10,7,1,39,100,252.65
+27,108.82,50.5742443,-126.7062507,Orca Lab,2023-07-22,Weekend,16:41,12,38,Humpback,Resting,no,1,Commercial,no,Fast,11,3,1,39,100,8.82
+621,717.34,50.5742443,-126.7062507,Orca Lab,2023-07-22,Weekend,16:41,12,38,Humpback,Resting,no,1,Ecotour,no,Idle,12,2,1,39,100,617.34
+719,822.96,50.5739383,-126.7063204,Orca Lab,2023-07-22,Weekend,16:41,12,38,Humpback,Resting,no,1,Commercial,no,Slow/Med.,12,2,1,39,100,722.96
+225,325.68,50.5739481,-126.7063333,Orca Lab,2023-07-22,Weekend,16:46,12,38,Humpback,Resting,no,1,Rec. Non-Fishing,no,Fast,13,2,1,39,100,225.68
+98,204,50.5739196,-126.7063658,Orca Lab,2023-07-22,Weekend,16:54,12,38,Humpback,Resting,no,1,Commercial,no,Fast,14,2,1,39,100,104
+127,233.88,50.5742362,-126.7060107,Orca Lab,2023-07-22,Weekend,17:18,13,39,Humpback,Foraging,no,0,Commercial,no,Fast,15,6,1,6,100,133.88
+772,900.92,50.5730155,-126.7051314,Orca Lab,2023-07-22,Weekend,17:45,14,40,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,800.92
+308,410.27,50.5730648,-126.7051982,Orca Lab,2023-07-23,Weekend,9:54,3,41,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,1,2,100,310.27
+420,516.71,50.5730677,-126.7051547,Orca Lab,2023-07-23,Weekend,10:10,4,42,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,2,2,2,18,100,416.71
+482,570.49,50.5730648,-126.7051982,Orca Lab,2023-07-23,Weekend,10:10,4,42,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,2,18,100,470.49
+186,281.48,50.5730677,-126.7051547,Orca Lab,2023-07-23,Weekend,10:28,4,42,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,4,2,2,18,100,181.48
+769,895.39,50.5730677,-126.7051547,Orca Lab,2023-07-23,Weekend,10:28,4,42,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,3,2,2,18,100,795.39
+92,194.44,50.5730528,-126.7051182,Orca Lab,2023-07-23,Weekend,11:25,6,43,Humpback,Resting,no,0,Rec. Non-Fishing,no,Idle,1,4,2,17,100,94.44
+405,509.8,50.5730677,-126.7051547,Orca Lab,2023-07-23,Weekend,11:25,6,43,Humpback,Resting,no,0,Rec. Fishing,no,Fast,2,4,2,17,100,409.8
+816,949.82,50.5730528,-126.7051182,Orca Lab,2023-07-23,Weekend,11:40,6,43,Humpback,Travel,no,0,Rec. Fishing,no,Idle,4,4,2,17,100,849.82
+304,405.88,50.572836,-126.7050015,Orca Lab,2023-07-23,Weekend,12:19,7,44,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,2,2,1,39,100,305.88
+21,95.92,50.572836,-126.7050015,Orca Lab,2023-07-23,Weekend,12:36,7,44,Humpback,Resting,no,0,Rec. Non-Fishing,no,Fast,3,6,1,39,100,-4.08
+374,483.16,50.572836,-126.7050015,Orca Lab,2023-07-23,Weekend,12:42,7,44,Humpback,Resting,no,0,Rec. Fishing,no,Idle,1,29,1,39,100,383.16
+48,146.04,50.572836,-126.7050015,Orca Lab,2023-07-23,Weekend,12:52,7,44,Humpback,Resting,no,0,Rec. Fishing,no,Fast,4,2,1,39,100,46.04
+254,352.05,50.5729657,-126.7051843,Orca Lab,2023-07-23,Weekend,13:12,8,45,Humpback,Travel,no,0,Rec. Fishing,no,Idle,2,6,2,6,100,252.05
+278,375.31,50.5729657,-126.7051843,Orca Lab,2023-07-23,Weekend,13:12,8,45,Humpback,Travel,no,0,Rec. Non-Fishing,no,Idle,1,6,2,6,100,275.31
+618,715.22,50.5729788,-126.7050092,Orca Lab,2023-07-23,Weekend,14:22,10,46,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,615.22
+150,254.85,50.5729786,-126.7050095,Orca Lab,2023-07-23,Weekend,14:47,11,47,Humpback,Travel,no,1,Ecotour,no,Idle,1,11,1,11,100,154.85
+516,609.87,50.5742361,-126.7063602,Orca Lab,2023-07-23,Weekend,15:20,12,48,Humpback,Travel,no,0,Rec. Non-Fishing,yes,Slow/Med.,1,2,1,2,100,509.87
+751,873.8,50.5741428,-126.7065772,Orca Lab,2023-07-23,Weekend,15:50,13,49,Humpback,Travel,no,1,Ecotour,yes,Idle,1,2,1,4,100,773.8
+85,183.51,50.5741573,-126.7063435,Orca Lab,2023-07-23,Weekend,15:54,13,49,Humpback,Travel,no,1,Ecotour,yes,Idle,2,4,1,4,100,83.51
+609,707.54,50.5742154,-126.7063585,Orca Lab,2023-07-23,Weekend,16:25,14,50,Humpback,Resting,no,0,Commercial,yes,Slow/Med.,1,2,2,2,100,607.54
+843,983.88,50.5742154,-126.7063585,Orca Lab,2023-07-23,Weekend,16:25,14,50,Humpback,Resting,no,0,Rec. Non-Fishing,yes,Slow/Med.,2,2,2,2,100,883.88
+289,385.04,50.5741572,-126.7062881,Orca Lab,2023-07-24,Weekday,16:11,1,51,Humpback,Resting,no,1,Ecotour,no,Slow/Med.,1,2,1,28,100,285.04
+828,963.07,50.5742567,-126.7060754,Orca Lab,2023-07-24,Weekday,16:11,1,51,Humpback,Resting,no,1,Rec. Fishing,no,Idle,2,4,1,28,100,863.07
+591,683.54,50.5742567,-126.7060754,Orca Lab,2023-07-24,Weekday,16:39,1,51,Humpback,Resting,no,1,Rec. Fishing,no,Slow/Med.,3,2,1,28,100,583.54
+337,442.56,50.5742207,-126.7063437,Orca Lab,2023-07-25,Weekday,14:57,2,53,Humpback,Resting,no,0,Ecotour,yes,Idle,2,12,2,12,100,342.56
+809,938.56,50.5742207,-126.7063437,Orca Lab,2023-07-25,Weekday,14:57,2,53,Humpback,Resting,no,0,Ecotour,yes,Slow/Med.,3,2,2,12,100,838.56
+598,691.43,50.5741845,-126.7063352,Orca Lab,2023-07-25,Weekday,15:10,3,54,Humpback,Travel,no,1,Ecotour,yes,Idle,1,4,1,3,100,591.43
+605,699.13,50.5742028,-126.7062457,Orca Lab,2023-07-25,Weekday,15:13,3,54,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Fast,4,2,1,3,100,599.13
+33,114.79,50.5741158,-126.7064033,Orca Lab,2023-07-25,Weekday,15:20,4,54,Humpback,Travel,no,1,Commercial,yes,Slow/Med.,4,4,4,4,100,14.79
+77,177.18,50.5740852,-126.7059036,Orca Lab,2023-07-25,Weekday,15:20,4,54,Humpback,Travel,no,1,Ecotour,yes,Slow/Med.,1,4,4,4,100,77.18
+93,195.34,50.5741886,-126.7062844,Orca Lab,2023-07-25,Weekday,15:20,4,54,Humpback,Travel,no,1,Ecotour,yes,Idle,2,4,4,4,100,95.34
+146,251.39,50.5742176,-126.7063326,Orca Lab,2023-07-25,Weekday,15:20,4,54,Humpback,Travel,no,1,Ecotour,yes,Idle,3,4,4,4,100,151.39
+147,251.39,50.5741886,-126.7062844,Orca Lab,2023-07-25,Weekday,15:20,4,54,Humpback,Travel,no,1,Ecotour,yes,Idle,3,4,4,4,100,151.39
+747,869.3,50.5742121,-126.7063333,Orca Lab,2023-07-25,Weekday,15:46,5,55,Humpback,Resting,no,0,Commercial,yes,Slow/Med.,2,2,1,2,100,769.3
+189,282.6,50.5730481,-126.7050219,Orca Lab,2023-07-26,Weekday,9:34,1,56,Humpback,Travel,no,0,Rec. Non-Fishing,no,Fast,2,2,1,4,100,182.6
+556,644.43,50.5730481,-126.7050219,Orca Lab,2023-07-26,Weekday,9:36,1,56,Humpback,Travel,no,0,Rec. Non-Fishing,no,Idle,1,2,1,4,100,544.43
+217,320,50.5730481,-126.7050219,Orca Lab,2023-07-26,Weekday,10:37,2,57,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Idle,1,10,1.5,21,100,220
+253,351.56,50.5728811,-126.705218,Orca Lab,2023-07-26,Weekday,10:47,2,57,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,9,1.5,21,100,251.56
+479,567.3,50.5728811,-126.705218,Orca Lab,2023-07-26,Weekday,10:58,2,57,Humpback,Resting,no,0,Commercial,no,Slow/Med.,5,2,1.5,21,100,467.3
+645,744.69,50.5728811,-126.705218,Orca Lab,2023-07-26,Weekday,10:58,2,57,Humpback,Resting,no,0,Rec. Fishing,no,Fast,4,2,1.5,21,100,644.69
+823,959.73,50.5728811,-126.705218,Orca Lab,2023-07-26,Weekday,11:33,3,58,Humpback,Foraging,no,1,Ecotour,no,Slow/Med.,2,2,1,38,100,859.73
+121,226.97,50.5729105,-126.7051835,Orca Lab,2023-07-26,Weekday,11:48,3,58,Humpback,Foraging,no,1,Rec. Fishing,no,Idle,1,38,1,38,100,126.97
+654,753.98,50.5730078,-126.7050691,Orca Lab,2023-07-26,Weekday,11:54,4,59,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,5,1,5,100,653.98
+402,508.81,50.5730798,-126.7051131,Orca Lab,2023-07-26,Weekday,11:57,4,59,Humpback,Travel,no,0,Rec. Fishing,no,Idle,2,5,1,5,100,408.81
+5,0,50.5730301,-126.7050273,Orca Lab,2023-07-26,Weekday,12:46,5,60,Humpback,Resting,no,0,Rec. Fishing,no,Idle,2,6,4,16,100,-100
+6,0,50.5730301,-126.7050273,Orca Lab,2023-07-26,Weekday,12:46,5,60,Humpback,Resting,no,0,Rec. Fishing,no,Idle,2,5,1.5,25,100,-100
+135,241.41,50.5730301,-126.7050273,Orca Lab,2023-07-26,Weekday,12:48,5,60,Humpback,Resting,no,0,Rec. Fishing,no,Idle,1,25,1.5,25,100,141.41
+1,0,50.5730301,-126.7050273,Orca Lab,2023-07-26,Weekday,12:51,5,60,Humpback,Resting,no,0,Rec. Fishing,no,Idle,2,6,4,16,100,-100
+2,0,50.5730301,-126.7050273,Orca Lab,2023-07-26,Weekday,12:51,5,60,Humpback,Resting,no,0,Rec. Fishing,no,Idle,2,5,1.5,25,100,-100
+342,445.07,50.5730301,-126.7050273,Orca Lab,2023-07-26,Weekday,12:55,5,60,Humpback,Resting,no,0,Rec. Non-Fishing,no,Idle,3,4,1.5,25,100,345.07
+585,675.89,50.5730301,-126.7050273,Orca Lab,2023-07-26,Weekday,12:55,5,60,Humpback,Resting,no,0,Rec. Fishing,no,Slow/Med.,3,2,1.5,25,100,575.89
+242,344.44,50.5730127,-126.7049913,Orca Lab,2023-07-26,Weekday,14:11,6,61,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,2,2,1,2,100,244.44
+732,849.58,50.5730527,-126.7050622,Orca Lab,2023-07-26,Weekday,15:45,7,62,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,2,2,2,2,100,749.58
+758,885.04,50.5728779,-126.7052033,Orca Lab,2023-07-26,Weekday,15:45,7,62,Humpback,Resting,no,0,Rec. Non-Fishing,no,Idle,1,2,2,2,100,785.04
+829,963.18,50.5729898,-126.7051684,Orca Lab,2023-07-26,Weekday,16:47,8,63,Humpback,Travel,no,0,Rec. Non-Fishing,no,Idle,5,2,1,9,100,863.18
+178,277.09,50.5729898,-126.7051684,Orca Lab,2023-07-26,Weekday,16:56,8,63,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,6,2,1,9,100,177.09
+610,707.74,50.5729898,-126.7051684,Orca Lab,2023-07-26,Weekday,17:10,9,64,Humpback,Surface Activity,no,1,Ecotour,no,Slow/Med.,2,4,1,14,100,607.74
+478,567.06,50.5729898,-126.7051684,Orca Lab,2023-07-26,Weekday,17:12,9,64,Humpback,Surface Activity,no,1,Rec. Fishing,no,Slow/Med.,3,12,1,14,100,467.06
+34,119.08,50.5729898,-126.7051684,Orca Lab,2023-07-26,Weekday,17:14,9,64,Humpback,Travel,no,1,Ecotour,no,Idle,1,14,1,14,100,19.08
+124,229.49,50.5730721,-126.7049979,Orca Lab,2023-07-26,Weekday,17:34,10,65,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,129.49
+241,344.3,50.5729919,-126.705097,Orca Lab,2023-07-27,Weekday,9:47,2,66,Humpback,Resting,no,1,Ecotour,yes,Idle,2,2,1,10,100,244.3
+833,969.89,50.5729919,-126.705097,Orca Lab,2023-07-27,Weekday,9:57,2,66,Humpback,Resting,no,1,Rec. Non-Fishing,yes,Slow/Med.,3,2,1,10,100,869.89
+79,177.38,50.5730387,-126.7049091,Orca Lab,2023-07-27,Weekday,10:18,3,67,Humpback,Foraging,no,1,Ecotour,yes,Idle,1,2,3,26,100,77.38
+228,328.05,50.5730387,-126.7049091,Orca Lab,2023-07-27,Weekday,10:30,3,67,Humpback,Foraging,no,1,Ecotour,yes,Slow/Med.,2,14,3,26,100,228.05
+601,696.57,50.5730242,-126.7050778,Orca Lab,2023-07-27,Weekday,10:30,3,67,Humpback,Foraging,no,1,Rec. Non-Fishing,yes,Slow/Med.,3,2,3,26,100,596.57
+727,840.78,50.5730242,-126.7050778,Orca Lab,2023-07-27,Weekday,10:30,3,67,Humpback,Foraging,no,1,Rec. Non-Fishing,yes,Slow/Med.,4,2,3,26,100,740.78
+515,608.6,50.5730125,-126.7050641,Orca Lab,2023-07-27,Weekday,11:16,5,68,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,3,2,100,508.6
+778,907.8,50.5728935,-126.7050632,Orca Lab,2023-07-27,Weekday,11:16,5,68,Humpback,Resting,no,0,Rec. Fishing,no,Idle,2,2,3,2,100,807.8
+841,979.6,50.5730542,-126.705034,Orca Lab,2023-07-27,Weekday,11:16,5,68,Humpback,Resting,no,0,Rec. Fishing,no,Fast,3,2,3,2,100,879.6
+377,484.38,50.5730922,-126.7050277,Orca Lab,2023-07-27,Weekday,12:41,6,69,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,3,2,1,2,100,384.38
+821,957.21,50.5729255,-126.7050196,Orca Lab,2023-07-27,Weekday,15:18,7,70,Humpback,Travel,no,1,Rec. Non-Fishing,no,Slow/Med.,2,2,2,28,100,857.21
+69,162.73,50.573055,-126.705042,Orca Lab,2023-07-27,Weekday,15:46,7,70,Humpback,Travel,no,1,Ecotour,no,Idle,3,9,2,28,100,62.73
+375,483.92,50.573055,-126.705042,Orca Lab,2023-07-27,Weekday,15:46,7,70,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,4,2,2,28,100,383.92
+455,552.21,50.5730538,-126.7049886,Orca Lab,2023-07-27,Weekday,17:50,10,71,Humpback,Foraging,no,0,Commercial,no,Fast,3,2,1,2,100,452.21
+787,919.9,50.5730267,-126.7050506,Orca Lab,2023-07-28,Weekday,8:32,1,72,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,1,23,100,819.9
+17,68.1,50.5730015,-126.7050741,Orca Lab,2023-07-28,Weekday,8:48,1,72,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,3,14,1,23,100,-31.9
+354,456.41,50.5730673,-126.7050581,Orca Lab,2023-07-28,Weekday,9:41,3,73,Humpback,Foraging,no,0,Commercial,no,Slow/Med.,1,2,1,2,100,356.41
+595,687.78,50.5730102,-126.7051896,Orca Lab,2023-07-28,Weekday,12:15,5,74,Humpback,Resting,no,1,Ecotour,no,Slow/Med.,1,5,1,5,100,587.78
+546,637.21,50.5730243,-126.7050282,Orca Lab,2023-07-28,Weekday,12:20,5,74,Humpback,Foraging,no,1,Commercial,no,Slow/Med.,2,5,1,5,100,537.21
+534,624.07,50.573018,-126.7051142,Orca Lab,2023-07-28,Weekday,14:43,6,75,Humpback,Travel,no,0,Commercial,no,Idle,1,12,5,12,100,524.07
+120,226.15,50.5896208,-126.7623762,Double Bay,2023-08-04,Weekday,13:47,1,76,Humpback,Travel,no,1,Rec. Non-Fishing,no,Slow/Med.,1,9,2,9,100,126.15
+404,509.1,50.5896208,-126.7623762,Double Bay,2023-08-04,Weekday,13:47,1,76,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,4,2,2,9,100,409.1
+551,642.29,50.5896208,-126.7623762,Double Bay,2023-08-04,Weekday,13:50,1,76,Humpback,Travel,no,1,Rec. Fishing,no,Slow/Med.,2,3,2,9,100,542.29
+604,698.86,50.5896208,-126.7623762,Double Bay,2023-08-04,Weekday,13:50,1,76,Humpback,Travel,no,1,Rec. Fishing,no,Fast,5,2,2,9,100,598.86
+793,924.46,50.5896208,-126.7623762,Double Bay,2023-08-04,Weekday,13:50,1,76,Humpback,Travel,no,1,Rec. Non-Fishing,no,Fast,6,2,2,9,100,824.46
+282,379.8,50.589672,-126.762459,Double Bay,2023-08-05,Weekend,16:13,1,76,Humpback,Travel,no,1,Rec. Fishing,no,Idle,1,2,2,2,100,279.8
+256,352.41,50.5894998,-126.7624215,Double Bay,2023-08-07,Weekday,14:41,1,76,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,3,2,2,6,100,252.41
+819,955.18,50.5897955,-126.7624952,Double Bay,2023-08-07,Weekday,14:41,1,76,Humpback,Travel,no,1,Rec. Fishing,no,Idle,1,6,2,6,100,855.18
+8,16,50.5895202,-126.7624243,Double Bay,2023-08-07,Weekday,14:47,1,76,Humpback,Resting,no,1,Rec. Fishing,no,Idle,1,6,2,6,100,-84
+9,16,50.5894998,-126.7624215,Double Bay,2023-08-07,Weekday,14:47,1,76,Humpback,Resting,no,1,Ecotour,no,Idle,2,6,2,6,100,-84
+243,347.06,50.5897076,-126.7624803,Double Bay,2023-08-07,Weekday,15:20,2,77,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Idle,1,2,2,2,100,247.06
+812,940.54,50.5896722,-126.7624883,Double Bay,2023-08-07,Weekday,15:20,2,77,Humpback,Foraging,no,0,Commercial,no,Idle,2,2,2,2,100,840.54
+454,551.31,50.5896938,-126.7624763,Double Bay,2023-08-09,Weekday,9:48,2,77,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,2,2,100,451.31
+847,989.89,50.5896938,-126.7624763,Double Bay,2023-08-09,Weekday,9:48,2,77,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,2,2,2,2,100,889.89
+512,606.1,50.589617,-126.7624509,Double Bay,2023-08-09,Weekday,12:34,3,78,Humpback,Travel,no,0,Rec. Fishing,no,Idle,4,4,3,11,100,506.1
+533,622,50.589617,-126.7624509,Double Bay,2023-08-09,Weekday,12:34,3,78,Humpback,Travel,no,0,Rec. Fishing,no,Idle,3,4,3,11,100,522
+506,601.49,50.5897762,-126.7624608,Double Bay,2023-08-09,Weekday,12:39,3,78,Humpback,Travel,no,0,Rec. Fishing,no,Idle,5,9,3,11,100,501.49
+580,670.22,50.589656,-126.762354,Double Bay,2023-08-09,Weekday,12:39,3,78,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,6,9,3,11,100,570.22
+644,742.4,50.5896105,-126.7625001,Double Bay,2023-08-09,Weekday,14:11,4,79,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,3,11,100,642.4
+76,176.72,50.5897226,-126.7623897,Double Bay,2023-08-09,Weekday,14:17,4,79,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,5,5,3,11,100,76.72
+291,387.8,50.5896843,-126.7624889,Double Bay,2023-08-09,Weekday,14:22,4,79,Humpback,Travel,no,0,Rec. Fishing,no,Idle,4,2,3,11,100,287.8
+483,572.54,50.5896843,-126.7624889,Double Bay,2023-08-09,Weekday,14:22,4,79,Humpback,Travel,no,0,Rec. Fishing,no,Idle,3,5,3,11,100,472.54
+491,582,50.5896843,-126.7624889,Double Bay,2023-08-09,Weekday,14:22,4,79,Humpback,Travel,no,0,Rec. Fishing,no,Idle,2,5,3,11,100,482
+709,807.86,50.5897212,-126.7623542,Double Bay,2023-08-09,Weekday,15:40,5,80,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,4,1,11,100,707.86
+128,234.85,50.5896645,-126.7623816,Double Bay,2023-08-09,Weekday,15:49,5,80,Humpback,Travel,no,0,Rec. Fishing,no,Idle,3,7,1,11,100,134.85
+790,922.26,50.5896889,-126.7624449,Double Bay,2023-08-10,Weekday,12:21,1,81,Humpback,Travel,no,1,Rec. Fishing,no,Slow/Med.,1,2,1,37,100,822.26
+762,889.42,50.5896602,-126.7625191,Double Bay,2023-08-10,Weekday,12:43,1,81,Humpback,Resting,no,1,Rec. Fishing,no,Idle,2,4,1,37,100,789.42
+704,806.43,50.5896602,-126.7625191,Double Bay,2023-08-10,Weekday,12:50,1,81,Humpback,Resting,no,1,Rec. Non-Fishing,no,Fast,7,2,1,37,100,706.43
+313,413.79,50.5896602,-126.7625191,Double Bay,2023-08-10,Weekday,12:58,1,81,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,8,2,1,37,100,313.79
+149,252.94,50.5896549,-126.762456,Double Bay,2023-08-10,Weekday,13:12,2,82,Humpback,Resting,no,1,Ecotour,no,Idle,1,6,2,13,100,152.94
+736,853.81,50.5896645,-126.7624593,Double Bay,2023-08-10,Weekday,13:12,2,82,Humpback,Resting,no,1,Rec. Fishing,no,Idle,3,2,2,13,100,753.81
+391,501.44,50.5896645,-126.7624593,Double Bay,2023-08-10,Weekday,13:19,2,82,Humpback,Resting,no,1,Rec. Fishing,no,Idle,2,13,2,13,100,401.44
+642,740.85,50.5897022,-126.7625163,Double Bay,2023-08-10,Weekday,13:25,2,82,Humpback,Travel,no,1,Rec. Fishing,no,Fast,7,2,2,13,100,640.85
+55,153.45,50.5897826,-126.7624531,Double Bay,2023-08-10,Weekday,14:31,3,84,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,1,10,2,10,100,53.45
+286,382.94,50.5897826,-126.7624531,Double Bay,2023-08-10,Weekday,14:31,3,84,Humpback,Travel,no,1,Ecotour,no,Fast,2,10,2,10,100,282.94
+296,394.66,50.5896912,-126.7624951,Double Bay,2023-08-10,Weekday,17:48,5,85,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,2,2,1,10,100,294.66
+379,486.47,50.5897021,-126.762507,Double Bay,2023-08-10,Weekday,17:58,5,85,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,8,1,10,100,386.47
+386,494.69,50.5896663,-126.7624159,Double Bay,2023-08-10,Weekday,18:28,6,86,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,1,2,1,2,100,394.69
+688,795.08,50.5897033,-126.7624907,Double Bay,2023-08-12,Weekend,16:00,1,87,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,4,19,2,52,100,695.08
+18,72.48,50.5897621,-126.7622398,Double Bay,2023-08-12,Weekend,16:15,1,87,Humpback,Travel,no,1,Ecotour,yes,Idle,1,18,2,52,100,-27.52
+123,228,50.5897033,-126.7624907,Double Bay,2023-08-12,Weekend,16:15,1,87,Humpback,Travel,no,1,Ecotour,yes,Idle,2,13,2,52,100,128
+259,355.5,50.5897033,-126.7624907,Double Bay,2023-08-12,Weekend,16:15,1,87,Humpback,Travel,no,1,Ecotour,yes,Slow/Med.,3,4,2,52,100,255.5
+88,186.66,50.5897033,-126.7624907,Double Bay,2023-08-12,Weekend,16:19,1,87,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,4,19,2,52,100,86.66
+530,620.03,50.5895693,-126.7626464,Double Bay,2023-08-12,Weekend,16:52,1,87,Humpback,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,6,2,2,52,100,520.03
+41,133.04,50.5896466,-126.7623824,Double Bay,2023-08-12,Weekend,17:16,2,88,Humpback,Travel,no,0,Rec. Non-Fishing,yes,Slow/Med.,1,5,2,5,100,33.04
+504,601.14,50.5896466,-126.7623824,Double Bay,2023-08-12,Weekend,17:16,2,88,Humpback,Travel,no,0,Rec. Non-Fishing,yes,Slow/Med.,2,5,2,5,100,501.14
+348,451.86,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,14:26,1,89,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,0,2,4,8,100,351.86
+240,343.22,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,14:34,1,89,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,3,2,4,8,100,243.22
+277,373.24,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,14:34,1,89,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,2,2,4,8,100,273.24
+431,523.85,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,14:34,1,89,Humpback,Travel,no,0,Rec. Non-Fishing,no,Fast,1,2,4,8,100,423.85
+696,800.94,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,14:34,1,89,Humpback,Travel,no,0,Rec. Fishing,no,Idle,4,2,4,8,100,700.94
+425,521.21,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,15:15,2,90,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,2,2,100,421.21
+46,143.8,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,15:51,3,91,Humpback,Travel,no,0,Rec. Fishing,yes,Idle,1,4,2,4,100,43.8
+306,408.05,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,15:51,3,91,Humpback,Travel,no,0,Rec. Fishing,yes,Idle,2,4,2,4,100,308.05
+367,476.01,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,16:11,4,92,Humpback,Travel,no,1,Ecotour,no,Fast,1,2,3,4,100,376.01
+488,579.24,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,16:11,4,92,Humpback,Travel,no,1,Rec. Non-Fishing,no,Fast,2,2,3,4,100,479.24
+539,629.77,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,16:11,4,92,Humpback,Travel,no,1,Rec. Fishing,no,Idle,3,4,3,4,100,529.77
+338,442.67,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,16:15,4,92,Humpback,Travel,no,1,Rec. Non-Fishing,no,Fast,4,2,3,4,100,342.67
+835,971.36,50.5896904,-126.7624499,Double Bay,2023-08-13,Weekend,16:15,4,92,Humpback,Travel,no,1,Rec. Non-Fishing,no,Fast,5,2,3,4,100,871.36
+430,523.04,50.5896527,-126.7624288,Double Bay,2023-08-13,Weekend,16:49,5,93,Humpback,Surface Activity,no,0,Rec. Fishing,no,Idle,2,2,2,2,100,423.04
+712,811.71,50.5896527,-126.7624288,Double Bay,2023-08-13,Weekend,16:49,5,93,Humpback,Surface Activity,no,0,Rec. Fishing,no,Fast,1,2,2,2,100,711.71
+619,716.21,50.6258002,-126.8238544,Donegal Head,2023-08-18,Weekday,8:26,1,94,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,1,2,2,2,100,616.21
+722,829.92,50.6253852,-126.8247801,Donegal Head,2023-08-18,Weekday,8:26,1,94,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,2,2,2,2,100,729.92
+550,641.86,50.6253852,-126.8247801,Donegal Head,2023-08-18,Weekday,9:30,2,95,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,2,2,2,100,541.86
+631,727.1,50.6253852,-126.8247801,Donegal Head,2023-08-18,Weekday,9:30,2,95,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,1,2,2,2,100,627.1
+392,502.59,50.6255767,-126.8252024,Donegal Head,2023-08-18,Weekday,11:14,5,96,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,1,2,1,11,100,402.59
+144,250.21,50.6255767,-126.8252024,Donegal Head,2023-08-18,Weekday,11:25,5,96,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,2,2,1,11,100,150.21
+836,971.49,50.6256281,-126.8251589,Donegal Head,2023-08-18,Weekday,14:12,8,97,Humpback,Travel,no,0,Rec. Fishing,no,Fast,1,2,1,30,100,871.49
+806,935.12,50.6254574,-126.8248947,Donegal Head,2023-08-18,Weekday,14:42,8,97,Humpback,Travel,no,0,Rec. Fishing,no,Idle,5,2,1,30,100,835.12
+205,303.03,50.6255602,-126.8247855,Donegal Head,2023-08-19,Weekend,8:13,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,1,2,3,44,100,203.03
+288,383.45,50.6254546,-126.824871,Donegal Head,2023-08-19,Weekend,8:13,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,2,2,3,44,100,283.45
+362,465.53,50.6254546,-126.824871,Donegal Head,2023-08-19,Weekend,8:13,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,3,2,3,44,100,365.53
+185,281,50.6254842,-126.824885,Donegal Head,2023-08-19,Weekend,8:20,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,4,33,3,44,100,181
+428,521.77,50.6254808,-126.8248381,Donegal Head,2023-08-19,Weekend,8:20,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,6,2,3,44,100,421.77
+708,807.45,50.6256035,-126.8248159,Donegal Head,2023-08-19,Weekend,8:20,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,5,2,3,44,100,707.45
+66,160.2,50.6254244,-126.824862,Donegal Head,2023-08-19,Weekend,8:33,1,98,Humpback,Foraging,no,0,Commercial,no,Slow/Med.,10,2,3,44,100,60.2
+378,485.41,50.6254244,-126.824862,Donegal Head,2023-08-19,Weekend,8:33,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,9,2,3,44,100,385.41
+588,678.02,50.6254801,-126.8248581,Donegal Head,2023-08-19,Weekend,8:33,1,98,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Fast,12,2,3,44,100,578.02
+616,711.92,50.6254541,-126.8249125,Donegal Head,2023-08-19,Weekend,8:33,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,7,2,3,44,100,611.92
+757,883.45,50.6255056,-126.8248616,Donegal Head,2023-08-19,Weekend,8:33,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,8,6,3,44,100,783.45
+236,337.89,50.6254305,-126.8247791,Donegal Head,2023-08-19,Weekend,8:39,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,13,7,3,44,100,237.89
+237,337.89,50.6252009,-126.8247995,Donegal Head,2023-08-19,Weekend,8:39,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,4,7,3,44,100,237.89
+419,516.42,50.6254319,-126.8247779,Donegal Head,2023-08-19,Weekend,8:39,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,14,2,3,44,100,416.42
+318,418.79,50.6254319,-126.8247779,Donegal Head,2023-08-19,Weekend,8:46,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,15,11,3,44,100,318.79
+418,516.32,50.6254319,-126.8247779,Donegal Head,2023-08-19,Weekend,8:57,1,98,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,16,4,3,44,100,416.32
+407,511.2,50.6252673,-126.8250154,Donegal Head,2023-08-19,Weekend,9:20,2,99,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,4,2,3,100,411.2
+536,625.7,50.6253639,-126.8247285,Donegal Head,2023-08-19,Weekend,9:20,2,99,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,2,4,2,3,100,525.7
+47,144.49,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Idle,3,2,10,2,100,44.49
+84,183.22,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Slow/Med.,2,2,10,2,100,83.22
+100,205.61,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Slow/Med.,5,2,10,2,100,105.61
+155,257.95,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Non-Fishing,no,Idle,6,2,10,2,100,157.95
+238,339.39,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Idle,1,2,10,2,100,239.39
+366,474.68,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Idle,9,2,10,2,100,374.68
+434,532.13,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Idle,8,2,10,2,100,432.13
+472,563.36,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Fast,10,2,10,2,100,463.36
+664,767.18,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,4,2,10,2,100,667.18
+666,768.19,50.6253997,-126.8247716,Donegal Head,2023-08-19,Weekend,9:44,3,100,Humpback,Travel,no,1,Rec. Fishing,no,Fast,7,2,10,2,100,668.19
+136,244.91,50.6253976,-126.8252544,Donegal Head,2023-08-19,Weekend,10:18,4,101,Humpback,Travel,no,0,Rec. Fishing,no,Fast,1,2,1,2,100,144.91
+273,367.66,50.6253647,-126.8248777,Donegal Head,2023-08-19,Weekend,10:57,5,102,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,5,4,5,100,267.66
+299,401.2,50.6253587,-126.8250029,Donegal Head,2023-08-19,Weekend,10:57,5,102,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,3,2,4,5,100,301.2
+526,615.77,50.6253587,-126.8250029,Donegal Head,2023-08-19,Weekend,10:57,5,102,Humpback,Travel,no,0,Rec. Fishing,no,Idle,4,2,4,5,100,515.77
+697,801.4,50.6254591,-126.8249689,Donegal Head,2023-08-19,Weekend,10:57,5,102,Humpback,Travel,no,0,Rec. Fishing,no,Idle,5,2,4,5,100,701.4
+118,224.96,50.6255634,-126.8247703,Donegal Head,2023-08-19,Weekend,11:14,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Idle,5,10,4.5,17,100,124.96
+320,419.5,50.6255634,-126.8247703,Donegal Head,2023-08-19,Weekend,11:14,6,103,Humpback,Surface Activity,no,1,Rec. Non-Fishing,no,Slow/Med.,4,2,4.5,17,100,319.5
+384,491.84,50.6255634,-126.8247703,Donegal Head,2023-08-19,Weekend,11:14,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Fast,8,2,4.5,17,100,391.84
+505,601.41,50.6255634,-126.8247703,Donegal Head,2023-08-19,Weekend,11:14,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Idle,6,2,4.5,17,100,501.41
+603,697.68,50.6254667,-126.8248169,Donegal Head,2023-08-19,Weekend,11:14,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Fast,3,6,4.5,17,100,597.68
+716,817.71,50.6255634,-126.8247703,Donegal Head,2023-08-19,Weekend,11:14,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Idle,7,2,4.5,17,100,717.71
+417,516.3,50.625728,-126.8247172,Donegal Head,2023-08-19,Weekend,11:20,6,103,Humpback,Foraging,no,1,Rec. Fishing,no,Idle,2,17,4.5,17,100,416.3
+849,993.59,50.6257438,-126.8247477,Donegal Head,2023-08-19,Weekend,11:20,6,103,Humpback,Foraging,no,1,Rec. Fishing,no,Idle,5,10,4.5,17,100,893.59
+224,325.67,50.6252589,-126.8249043,Donegal Head,2023-08-19,Weekend,11:24,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Slow/Med.,11,2,4.5,17,100,225.67
+165,264.76,50.6253171,-126.8249645,Donegal Head,2023-08-19,Weekend,11:31,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Idle,1,17,4.5,17,100,164.76
+246,347.69,50.6253177,-126.8249572,Donegal Head,2023-08-19,Weekend,11:31,6,103,Humpback,Surface Activity,no,1,Rec. Fishing,no,Idle,10,7,4.5,17,100,247.69
+440,541.76,50.6253177,-126.8249572,Donegal Head,2023-08-19,Weekend,11:31,6,103,Humpback,Surface Activity,no,1,Ecotour,no,Fast,12,2,4.5,17,100,441.76
+235,337.59,50.6255467,-126.8248555,Donegal Head,2023-08-19,Weekend,14:10,7,104,Humpback,Travel,no,1,Rec. Fishing,no,Idle,2,2,5,2,100,237.59
+290,387.26,50.6255467,-126.8248555,Donegal Head,2023-08-19,Weekend,14:10,7,104,Humpback,Travel,no,1,Rec. Fishing,no,Idle,3,2,5,2,100,287.26
+442,543.24,50.6255467,-126.8248555,Donegal Head,2023-08-19,Weekend,14:10,7,104,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,1,2,5,2,100,443.24
+571,660.18,50.6255467,-126.8248555,Donegal Head,2023-08-19,Weekend,14:10,7,104,Humpback,Travel,no,1,Rec. Fishing,no,Idle,4,2,5,2,100,560.18
+786,919.33,50.6255467,-126.8248555,Donegal Head,2023-08-19,Weekend,14:10,7,104,Humpback,Travel,no,1,Rec. Fishing,no,Idle,5,2,5,2,100,819.33
+640,738.63,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:21,8,105,Humpback,Travel,no,0,Rec. Fishing,no,Fast,1,2,2,9,100,638.63
+314,414.74,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:25,8,105,Humpback,Travel,no,0,Rec. Fishing,no,Fast,3,5,2,9,100,314.74
+432,529.94,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:25,8,105,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,2,5,2,9,100,429.94
+234,337.1,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:30,8,105,Humpback,Travel,no,0,Rec. Fishing,no,Idle,2,5,2,9,100,237.1
+596,689.23,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:30,8,105,Humpback,Travel,no,0,Rec. Fishing,no,Idle,3,5,2,9,100,589.23
+3,0,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:42,9,106,Humpback,Travel,no,1,Commercial,yes,Slow/Med.,4,6,4,16,100,-100
+4,0,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:42,9,106,Humpback,Travel,no,1,Commercial,yes,Slow/Med.,4,5,1.5,25,100,-100
+230,331.6,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:42,9,106,Humpback,Travel,no,1,Ecotour,yes,Idle,2,16,4,16,100,231.6
+302,404.19,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:42,9,106,Humpback,Travel,no,1,Rec. Fishing,yes,Idle,1,6,4,16,100,304.19
+487,578.47,50.6253666,-126.8248728,Donegal Head,2023-08-19,Weekend,15:42,9,106,Humpback,Travel,no,1,Rec. Fishing,yes,Idle,3,2,4,16,100,478.47
+7,6,50.6255822,-126.8248955,Donegal Head,2023-08-19,Weekend,16:28,10,107,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,1,13,1,13,100,-94
+851,994.43,50.6253745,-126.8248315,Donegal Head,2023-08-20,Weekend,8:32,1,108,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,2,2,1,25,100,894.43
+208,306.86,50.6253745,-126.8248315,Donegal Head,2023-08-20,Weekend,8:36,1,108,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,3,6,1,25,100,206.86
+36,121.64,50.6254638,-126.8248257,Donegal Head,2023-08-20,Weekend,8:45,1,108,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,25,1,25,100,21.64
+494,585.61,50.6254282,-126.8247953,Donegal Head,2023-08-20,Weekend,8:45,1,108,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,4,2,1,25,100,485.61
+180,278.81,50.6254644,-126.8248263,Donegal Head,2023-08-20,Weekend,8:49,1,108,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,6,2,1,25,100,178.81
+376,484.23,50.6254644,-126.8248263,Donegal Head,2023-08-20,Weekend,8:53,1,108,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,5,8,1,25,100,384.23
+481,570.25,50.6253931,-126.824723,Donegal Head,2023-08-20,Weekend,9:14,2,109,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,1,2,1,12,100,470.25
+96,198.58,50.6253745,-126.8248315,Donegal Head,2023-08-20,Weekend,9:22,2,109,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,7,2,1,12,100,98.58
+20,88.43,50.6254005,-126.8249447,Donegal Head,2023-08-20,Weekend,9:26,2,109,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,8,1,12,100,-11.57
+169,268.88,50.6254644,-126.8248263,Donegal Head,2023-08-20,Weekend,9:46,3,110,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,5,2,5,100,168.88
+207,306.4,50.6254644,-126.8248263,Donegal Head,2023-08-20,Weekend,9:46,3,110,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,5,2,5,100,206.4
+97,198.83,50.6254644,-126.8248263,Donegal Head,2023-08-20,Weekend,9:51,3,110,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,4,5,2,5,100,98.83
+177,276.97,50.6254634,-126.8248485,Donegal Head,2023-08-20,Weekend,9:51,3,110,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,3,5,2,5,100,176.97
+421,517.84,50.6257175,-126.8249482,Donegal Head,2023-08-20,Weekend,10:12,4,111,Humpback,Travel,no,0,Rec. Fishing,no,Fast,1,47,4,47,100,417.84
+132,240.06,50.6254674,-126.8248625,Donegal Head,2023-08-20,Weekend,10:18,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,3,6,4,47,100,140.06
+717,818.7,50.6254674,-126.8248625,Donegal Head,2023-08-20,Weekend,10:18,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,5,2,4,47,100,718.7
+764,892.26,50.6254551,-126.8248657,Donegal Head,2023-08-20,Weekend,10:18,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,7,7,4,47,100,792.26
+789,922.06,50.6254551,-126.8248657,Donegal Head,2023-08-20,Weekend,10:18,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,8,2,4,47,100,822.06
+201,297.55,50.6254411,-126.8248419,Donegal Head,2023-08-20,Weekend,10:25,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,18,4,47,100,197.55
+322,423.34,50.6253648,-126.8249297,Donegal Head,2023-08-20,Weekend,10:30,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,11,6,4,47,100,323.34
+323,423.34,50.6253648,-126.8249297,Donegal Head,2023-08-20,Weekend,10:30,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,11,31,4,47,100,323.34
+324,423.34,50.6253647,-126.8249297,Donegal Head,2023-08-20,Weekend,10:30,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,4,6,4,47,100,323.34
+325,423.34,50.6253647,-126.8249297,Donegal Head,2023-08-20,Weekend,10:30,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,4,31,4,47,100,323.34
+471,563.31,50.6254102,-126.8248666,Donegal Head,2023-08-20,Weekend,10:30,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,9,13,4,47,100,463.31
+581,672.01,50.6256163,-126.8248241,Donegal Head,2023-08-20,Weekend,10:30,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,10,2,4,47,100,572.01
+26,108.09,50.6253647,-126.8249297,Donegal Head,2023-08-20,Weekend,10:36,4,111,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Slow/Med.,13,7,4,47,100,8.09
+801,932.49,50.6253647,-126.8249297,Donegal Head,2023-08-20,Weekend,10:36,4,111,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Slow/Med.,12,2,4,47,100,832.49
+381,487.47,50.6253285,-126.8249873,Donegal Head,2023-08-20,Weekend,10:39,4,111,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,6,25,4,47,100,387.47
+797,927.4,50.625359,-126.8249935,Donegal Head,2023-08-20,Weekend,10:57,4,111,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Slow/Med.,16,2,4,47,100,827.4
+777,906.55,50.625359,-126.8249935,Donegal Head,2023-08-20,Weekend,11:15,5,112,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,2,1,2,100,806.55
+737,857.18,50.6253108,-126.8249535,Donegal Head,2023-08-20,Weekend,12:46,7,113,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,1,2,1,2,100,757.18
+327,429.18,50.625438,-126.8252943,Donegal Head,2023-08-21,Weekday,8:40,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,5,2,3.5,18,100,329.18
+606,700.38,50.6253642,-126.8249924,Donegal Head,2023-08-21,Weekday,8:40,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,6,2,3.5,18,100,600.38
+75,172.56,50.6253951,-126.8251001,Donegal Head,2023-08-21,Weekday,8:42,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,18,3.5,18,100,72.56
+529,620.01,50.6253641,-126.8249051,Donegal Head,2023-08-21,Weekday,8:42,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,4,2,3.5,18,100,520.01
+65,160.17,50.6254209,-126.8248965,Donegal Head,2023-08-21,Weekday,8:58,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,7,2,3.5,18,100,60.17
+108,217.11,50.6254209,-126.8248965,Donegal Head,2023-08-21,Weekday,8:58,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,9,2,3.5,18,100,117.11
+447,545.06,50.6254209,-126.8248965,Donegal Head,2023-08-21,Weekday,8:58,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,8,2,3.5,18,100,445.06
+495,585.95,50.6254209,-126.8248965,Donegal Head,2023-08-21,Weekday,8:58,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,3,12,3.5,18,100,485.95
+535,624.4,50.6254209,-126.8248965,Donegal Head,2023-08-21,Weekday,8:58,1,114,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,2,18,3.5,18,100,524.4
+587,677.34,50.6254222,-126.8249602,Donegal Head,2023-08-21,Weekday,9:11,2,115,Humpback,Foraging,no,1,Commercial,no,Slow/Med.,2,2,4,38,100,577.34
+22,97.76,50.6253846,-126.8249962,Donegal Head,2023-08-21,Weekday,9:17,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Idle,1,38,4,38,100,-2.24
+197,286.75,50.6253805,-126.8250866,Donegal Head,2023-08-21,Weekday,9:17,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Fast,7,5,4,38,100,186.75
+748,870.31,50.625382,-126.8250509,Donegal Head,2023-08-21,Weekday,9:17,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Idle,3,14,4,38,100,770.31
+850,993.82,50.625382,-126.8250509,Donegal Head,2023-08-21,Weekday,9:17,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Fast,6,2,4,38,100,893.82
+148,251.42,50.6251731,-126.8250526,Donegal Head,2023-08-21,Weekday,9:29,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Idle,8,10,4,38,100,151.42
+328,429.99,50.6251731,-126.8250526,Donegal Head,2023-08-21,Weekday,9:29,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Idle,9,6,4,38,100,329.99
+43,138.37,50.6252395,-126.8246462,Donegal Head,2023-08-21,Weekday,9:40,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Idle,15,9,4,38,100,38.37
+248,348.28,50.6252396,-126.8246462,Donegal Head,2023-08-21,Weekday,9:40,2,115,Humpback,Foraging,yes,1,Ecotour,no,Idle,16,9,4,38,100,248.28
+636,735.91,50.6252405,-126.8246411,Donegal Head,2023-08-21,Weekday,9:40,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Fast,14,2,4,38,100,635.91
+686,790.92,50.6252396,-126.8246462,Donegal Head,2023-08-21,Weekday,9:40,2,115,Humpback,Foraging,yes,1,Rec. Non-Fishing,no,Slow/Med.,11,5,4,38,100,690.92
+691,795.93,50.6252405,-126.8246411,Donegal Head,2023-08-21,Weekday,9:40,2,115,Humpback,Foraging,yes,1,Rec. Fishing,no,Fast,13,2,4,38,100,695.93
+590,678.82,50.6250744,-126.8237445,Donegal Head,2023-08-21,Weekday,9:49,2,115,Humpback,Foraging,yes,1,Commercial,no,Fast,17,2,4,38,100,578.82
+673,774.76,50.625612,-126.825296,Donegal Head,2023-08-21,Weekday,9:49,2,115,Humpback,Foraging,yes,1,Ecotour,no,Slow/Med.,18,2,4,38,100,674.76
+175,276.07,50.6257988,-126.825066,Donegal Head,2023-08-21,Weekday,10:13,3,116,Orca,Travel,no,1,Ecotour,yes,Idle,1,5,2,5,200,76.07
+839,977.38,50.6252985,-126.8250027,Donegal Head,2023-08-21,Weekday,10:13,3,116,Orca,Travel,no,1,Rec. Non-Fishing,yes,Slow/Med.,2,2,2,5,200,777.38
+154,257.88,50.6253377,-126.8248572,Donegal Head,2023-08-21,Weekday,10:26,4,117,Humpback,Foraging,no,1,Ecotour,yes,Slow/Med.,2,30,2,30,100,157.88
+321,422.89,50.6253377,-126.8248572,Donegal Head,2023-08-21,Weekday,10:26,4,117,Humpback,Foraging,no,1,Ecotour,yes,Slow/Med.,1,2,2,30,100,322.89
+459,554.4,50.6253377,-126.8248572,Donegal Head,2023-08-21,Weekday,10:26,4,117,Humpback,Foraging,no,1,Rec. Fishing,yes,Idle,4,4,2,30,100,454.4
+162,264.33,50.6253377,-126.8248572,Donegal Head,2023-08-21,Weekday,10:34,4,117,Humpback,Foraging,no,1,Rec. Fishing,yes,Slow/Med.,3,30,2,30,100,164.33
+553,643.79,50.6253377,-126.8248572,Donegal Head,2023-08-21,Weekday,10:34,4,117,Humpback,Foraging,no,1,Rec. Fishing,yes,Idle,5,16,2,30,100,543.79
+658,758.94,50.6255373,-126.8251338,Donegal Head,2023-08-21,Weekday,10:45,4,117,Humpback,Foraging,no,1,Commercial,yes,Fast,6,2,2,30,100,658.94
+800,930.06,50.6253049,-126.8250184,Donegal Head,2023-08-21,Weekday,10:56,4,117,Humpback,Foraging,no,1,Rec. Fishing,yes,Slow/Med.,7,2,2,30,100,830.06
+547,638.57,50.625312,-126.8250279,Donegal Head,2023-08-21,Weekday,11:23,1,118,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,2,3.5,2,100,538.57
+166,266.27,50.6254272,-126.8249245,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Rec. Fishing,no,Idle,1,2,4,2,100,166.27
+167,266.27,50.6254174,-126.8250225,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Rec. Fishing,yes,Idle,1,2,4,2,100,166.27
+438,540.73,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Commercial,yes,Fast,2,2,4,2,100,440.73
+439,540.73,50.6254323,-126.8248181,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Commercial,no,Fast,2,2,4,2,100,440.73
+461,556.15,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Rec. Fishing,yes,Idle,3,2,4,2,100,456.15
+462,556.15,50.6254025,-126.8249972,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Rec. Fishing,no,Idle,3,2,4,2,100,456.15
+701,802.85,50.6254165,-126.824916,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Rec. Fishing,no,Slow/Med.,5,2,4,2,100,702.85
+702,802.85,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:17,5,119,Humpback,Foraging,yes,0,Rec. Fishing,yes,Slow/Med.,5,2,4,2,100,702.85
+53,152.39,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,yes,0,Rec. Fishing,yes,Idle,3,2,6,2,200,-47.61
+54,152.39,50.6253915,-126.8249872,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,no,0,Rec. Fishing,yes,Idle,3,2,6,2,200,-47.61
+62,158.07,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,yes,0,Rec. Fishing,yes,Fast,5,2,6,2,200,-41.93
+63,158.07,50.6253915,-126.8249872,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,no,0,Rec. Fishing,no,Fast,5,2,6,2,200,-41.93
+110,219.5,50.6252838,-126.8247959,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,no,0,Rec. Fishing,yes,Idle,1,2,6,2,200,19.5
+111,219.5,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,yes,0,Rec. Fishing,yes,Idle,1,2,6,2,200,19.5
+210,308.8,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,yes,0,Rec. Fishing,yes,Idle,4,2,6,2,200,108.8
+211,308.8,50.6253915,-126.8249872,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,no,0,Rec. Fishing,yes,Idle,4,2,6,2,200,108.8
+280,376.54,50.6253915,-126.8249872,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,no,0,Rec. Fishing,no,Slow/Med.,6,2,6,2,200,176.54
+281,376.54,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,yes,0,Rec. Fishing,yes,Slow/Med.,6,2,6,2,200,176.54
+351,455.44,50.6254785,-126.8248738,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,yes,0,Rec. Fishing,yes,Fast,2,2,6,2,200,255.44
+352,455.44,50.6253915,-126.8249872,Donegal Head,2023-08-21,Weekday,13:22,6,120,Orca,Travel,no,0,Rec. Fishing,yes,Fast,2,2,6,2,200,255.44
+815,946.94,50.625475,-126.8249052,Donegal Head,2023-08-21,Weekday,16:44,7,121,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,1,2,1,6,100,846.94
+60,156.66,50.6253926,-126.8248311,Donegal Head,2023-08-21,Weekday,16:50,7,121,Humpback,Travel,no,0,Rec. Non-Fishing,no,Fast,2,2,1,6,100,56.66
+558,645.21,50.625393,-126.8246438,Donegal Head,2023-08-22,Weekday,16:15,1,122,Humpback,Travel,yes,0,Rec. Non-Fishing,no,Fast,1,2,1.5,7,100,545.21
+771,899.27,50.6254478,-126.824743,Donegal Head,2023-08-22,Weekday,16:20,1,122,Humpback,Travel,yes,0,Rec. Non-Fishing,no,Fast,3,2,1.5,7,100,799.27
+11,23,50.6254478,-126.824743,Donegal Head,2023-08-22,Weekday,16:22,1,122,Humpback,Travel,yes,0,Rec. Fishing,no,Fast,2,7,1.5,7,100,-77
+82,180.45,50.6254478,-126.824743,Donegal Head,2023-08-22,Weekday,16:22,1,122,Humpback,Travel,yes,0,Rec. Fishing,no,Fast,4,4,1.5,7,100,80.45
+475,565.34,50.6190541,-126.8323035,Donegal Head,2023-08-23,Weekday,14:54,3,123,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Idle,2,2,1,2,100,465.34
+14,41.49,50.6190574,-126.8323333,Donegal Head,2023-08-23,Weekday,15:33,4,124,Humpback,Travel,no,0,Rec. Fishing,no,Fast,1,5,1,5,100,-58.51
+767,894.58,50.6189566,-126.8324585,Donegal Head,2023-08-23,Weekday,16:25,5,125,Humpback,Travel,no,0,Rec. Fishing,no,Fast,1,2,1,2,100,794.58
+549,641.83,50.6253599,-126.8251194,Donegal Head,2023-08-24,Weekday,8:34,1,126,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,541.83
+174,275.79,50.6254834,-126.8247607,Donegal Head,2023-08-24,Weekday,9:22,2,127,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,3,2,4,9,100,175.79
+125,230,50.6254704,-126.8247748,Donegal Head,2023-08-24,Weekday,9:27,2,127,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,4,4,4,9,100,130
+157,258.52,50.6254834,-126.8247607,Donegal Head,2023-08-24,Weekday,9:27,2,127,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,9,4,9,100,158.52
+357,460.88,50.6254704,-126.8247748,Donegal Head,2023-08-24,Weekday,9:27,2,127,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,6,4,4,9,100,360.88
+523,613.67,50.6254704,-126.8247748,Donegal Head,2023-08-24,Weekday,9:27,2,127,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,9,4,9,100,513.67
+182,280.17,50.6254721,-126.8247634,Donegal Head,2023-08-24,Weekday,9:31,2,127,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,5,4,4,9,100,180.17
+380,486.97,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,10:13,3,128,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,1,4,4,4,100,386.97
+632,727.38,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,10:13,3,128,Humpback,Travel,no,0,Rec. Fishing,no,Fast,2,2,4,4,100,627.38
+142,249.41,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,10:17,3,128,Humpback,Travel,no,0,Commercial,no,Slow/Med.,5,2,4,4,100,149.41
+330,434.42,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,10:17,3,128,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,3,4,4,4,100,334.42
+559,645.21,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,10:17,3,128,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,1,2,1.5,7,100,545.21
+662,765.55,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,10:17,3,128,Humpback,Travel,no,0,Rec. Fishing,no,Idle,6,2,4,4,100,665.55
+840,979.02,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,10:17,3,128,Humpback,Travel,no,0,Rec. Fishing,no,Idle,7,2,4,4,100,879.02
+214,310.3,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,11:28,4,129,Orca,Resting,yes,1,Ecotour,yes,Slow/Med.,1,6,3,6,200,110.3
+340,443.06,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,11:28,4,129,Orca,Resting,yes,1,Ecotour,yes,Idle,4,3,3,6,200,243.06
+395,505.02,50.6254296,-126.8247752,Donegal Head,2023-08-24,Weekday,11:28,4,129,Orca,Resting,yes,1,Rec. Non-Fishing,yes,Idle,2,6,3,6,200,305.02
+103,207.72,50.6254607,-126.8248282,Donegal Head,2023-08-25,Weekday,8:41,1,130,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,7,2,3,9,100,107.72
+143,250.1,50.6254607,-126.8248282,Donegal Head,2023-08-25,Weekday,8:41,1,130,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,8,2,3,9,100,150.1
+365,474.29,50.6254607,-126.8248282,Donegal Head,2023-08-25,Weekday,8:41,1,130,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,6,9,3,9,100,374.29
+646,746.11,50.6254539,-126.8248254,Donegal Head,2023-08-25,Weekday,9:28,2,131,Humpback,Travel,yes,0,Rec. Fishing,no,Idle,2,2,3,2,100,646.11
+687,793.33,50.6254539,-126.8248254,Donegal Head,2023-08-25,Weekday,9:28,2,131,Humpback,Travel,yes,0,Rec. Fishing,no,Idle,3,2,3,2,100,693.33
+756,878.29,50.6254539,-126.8248254,Donegal Head,2023-08-25,Weekday,9:28,2,131,Humpback,Travel,yes,0,Rec. Fishing,no,Idle,4,2,3,2,100,778.29
+795,925.82,50.6255973,-126.8251524,Donegal Head,2023-08-25,Weekday,11:20,3,132,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,1,28,100,825.82
+152,256.7,50.6253081,-126.8249839,Donegal Head,2023-08-25,Weekday,11:23,3,132,Humpback,Travel,no,0,Commercial,no,Slow/Med.,4,7,1,28,100,156.7
+390,501.17,50.6253081,-126.8249839,Donegal Head,2023-08-25,Weekday,11:23,3,132,Humpback,Travel,no,0,Rec. Fishing,no,Fast,3,2,1,28,100,401.17
+540,633.17,50.6254504,-126.8248989,Donegal Head,2023-08-25,Weekday,11:30,3,132,Humpback,Travel,no,0,Rec. Fishing,no,Fast,6,2,1,28,100,533.17
+326,425.17,50.6254521,-126.8248995,Donegal Head,2023-08-25,Weekday,11:40,3,132,Humpback,Travel,no,0,Rec. Non-Fishing,no,Slow/Med.,8,2,1,28,100,325.17
+779,908.56,50.6254547,-126.824908,Donegal Head,2023-08-25,Weekday,11:52,3,132,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,10,6,1,28,100,808.56
+388,495.82,50.625442,-126.8248949,Donegal Head,2023-08-25,Weekday,11:58,3,132,Humpback,Resting,no,0,Rec. Fishing,no,Fast,11,2,1,28,100,395.82
+541,634.6,50.6257107,-126.8248387,Donegal Head,2023-08-25,Weekday,12:13,4,133,Humpback,Resting,no,0,Rec. Fishing,no,Fast,1,2,1,12,100,534.6
+807,936.13,50.6257107,-126.8248387,Donegal Head,2023-08-25,Weekday,12:15,4,133,Humpback,Surface Activity,no,0,Rec. Fishing,no,Fast,2,2,1,12,100,836.13
+294,392.32,50.6257107,-126.8248387,Donegal Head,2023-08-25,Weekday,12:20,4,133,Humpback,Resting,no,0,Commercial,no,Fast,3,2,1,12,100,292.32
+681,781.61,50.6256735,-126.8248525,Donegal Head,2023-08-25,Weekday,12:20,4,133,Humpback,Resting,no,0,Rec. Fishing,no,Fast,4,2,1,12,100,681.61
+156,258.15,50.6256735,-126.8248525,Donegal Head,2023-08-25,Weekday,12:25,4,133,Humpback,Resting,no,0,Rec. Fishing,no,Fast,5,2,1,12,100,158.15
+409,513.41,50.6256563,-126.8248553,Donegal Head,2023-08-25,Weekday,12:40,5,134,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,1,2,1,2,100,413.41
+825,962.07,50.6256563,-126.8248553,Donegal Head,2023-08-25,Weekday,12:51,6,135,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,3,2,1.5,4,100,862.07
+245,347.32,50.6256563,-126.8248553,Donegal Head,2023-08-25,Weekday,12:53,6,135,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,2,7,1.5,4,100,247.32
+607,704.78,50.6256563,-126.8248553,Donegal Head,2023-08-25,Weekday,12:53,6,135,Humpback,Resting,no,0,Rec. Fishing,no,Slow/Med.,1,7,1.5,4,100,604.78
+710,810,50.6256563,-126.8248553,Donegal Head,2023-08-25,Weekday,12:55,6,135,Humpback,Resting,no,0,Rec. Non-Fishing,no,Slow/Med.,2,7,1.5,4,100,710
+670,773.73,50.6255354,-126.8248496,Donegal Head,2023-08-25,Weekday,13:17,7,136,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,1,2,2,5,100,673.73
+817,954.24,50.6255069,-126.8248097,Donegal Head,2023-08-25,Weekday,13:17,7,136,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,2,2,5,100,854.24
+743,865.22,50.6253748,-126.8248956,Donegal Head,2023-08-25,Weekday,13:22,7,136,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,4,2,2,5,100,765.22
+151,255.6,50.6253748,-126.8248956,Donegal Head,2023-08-25,Weekday,13:35,8,137,Orca,Travel,yes,0,Rec. Fishing,yes,Idle,1,2,2,2,200,55.6
+397,505.81,50.6253748,-126.8248956,Donegal Head,2023-08-25,Weekday,13:51,9,138,Humpback,Travel,no,0,Rec. Fishing,no,Fast,2,2,2,2,100,405.81
+542,634.68,50.6253748,-126.8248956,Donegal Head,2023-08-25,Weekday,13:51,9,138,Humpback,Travel,no,0,Rec. Fishing,no,Fast,1,2,2,2,100,534.68
+398,506.1,50.6255261,-126.8249968,Donegal Head,2023-08-25,Weekday,14:18,10,139,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,7,2.5,7,100,406.1
+453,549.08,50.6253929,-126.8249918,Donegal Head,2023-08-25,Weekday,14:18,10,139,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,7,2.5,7,100,449.08
+51,151.05,50.6253929,-126.8249918,Donegal Head,2023-08-25,Weekday,14:21,10,139,Humpback,Foraging,no,0,Commercial,no,Slow/Med.,4,3,2.5,7,100,51.05
+200,295.23,50.6254428,-126.8248737,Donegal Head,2023-08-25,Weekday,14:21,10,139,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,6,3,2.5,7,100,195.23
+355,458.79,50.6253929,-126.8249918,Donegal Head,2023-08-25,Weekday,14:21,10,139,Humpback,Foraging,no,0,Commercial,no,Slow/Med.,5,4,2.5,7,100,358.79
+272,366.75,50.6254663,-126.8248641,Donegal Head,2023-08-25,Weekday,14:25,10,139,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,3,2,2.5,7,100,266.75
+39,124.9,50.6254255,-126.8248934,Donegal Head,2023-08-25,Weekday,15:17,11,140,Humpback,Foraging,no,0,Rec. Fishing,no,Slow/Med.,1,12,1,41,100,24.9
+29,113.35,50.6253716,-126.824877,Donegal Head,2023-08-25,Weekday,15:32,11,140,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,3,2,1,41,100,13.35
+852,994.46,50.6253827,-126.8248914,Donegal Head,2023-08-25,Weekday,15:36,11,140,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,4,2,1,41,100,894.46
+10,18,50.6253899,-126.8248797,Donegal Head,2023-08-25,Weekday,15:43,11,140,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,29,1,41,100,-82
+15,65.67,50.6253899,-126.8248797,Donegal Head,2023-08-25,Weekday,15:45,11,140,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,5,4,1,41,100,-34.33
+305,406.6,50.6253899,-126.8248797,Donegal Head,2023-08-25,Weekday,15:53,11,140,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,6,4,1,41,100,306.6
+577,662.15,50.6253899,-126.8248797,Donegal Head,2023-08-25,Weekday,15:53,11,140,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,7,4,1,41,100,562.15
+489,579.53,50.6254056,-126.8248607,Donegal Head,2023-08-25,Weekday,16:23,12,141,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,7,1,7,100,479.53
+648,746.86,50.6253874,-126.824851,Donegal Head,2023-08-26,Weekend,8:42,1,142,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,2,2,100,646.86
+830,965.63,50.6252702,-126.8248921,Donegal Head,2023-08-26,Weekend,8:42,1,142,Humpback,Travel,no,0,Rec. Fishing,no,Idle,2,2,2,2,100,865.63
+44,138.7,50.6253669,-126.8248845,Donegal Head,2023-08-26,Weekend,9:20,2,143,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,38.7
+684,786.97,50.625429,-126.8248426,Donegal Head,2023-08-26,Weekend,12:42,3,144,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,2,2,2,2,100,686.97
+45,142.51,50.6254523,-126.8248004,Donegal Head,2023-08-26,Weekend,13:39,4,145,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Idle,2,5,1,22,100,42.51
+184,280.51,50.6254523,-126.8248004,Donegal Head,2023-08-26,Weekend,13:50,4,145,Humpback,Foraging,no,0,Rec. Fishing,no,Fast,3,9,1,22,100,180.51
+32,114.69,50.6254421,-126.8250648,Donegal Head,2023-08-26,Weekend,14:31,5,146,Humpback,Foraging,no,0,Rec. Fishing,no,Idle,1,2,1,2,100,14.69
+368,477.28,50.6254688,-126.8251379,Donegal Head,2023-08-26,Weekend,15:50,6,147,Humpback,Travel,no,1,Ecotour,no,Slow/Med.,3,4,3,4,100,377.28
+572,660.41,50.6253931,-126.8250903,Donegal Head,2023-08-26,Weekend,15:50,6,147,Humpback,Travel,no,1,Commercial,no,Slow/Med.,1,2,1,15,100,560.41
+573,660.41,50.6253931,-126.8250903,Donegal Head,2023-08-26,Weekend,15:50,6,147,Humpback,Travel,no,1,Commercial,no,Slow/Med.,1,2,3,4,100,560.41
+813,941.37,50.6254688,-126.8251379,Donegal Head,2023-08-26,Weekend,15:50,6,147,Humpback,Travel,no,1,Rec. Fishing,no,Idle,2,4,3,4,100,841.37
+400,506.4,50.6253475,-126.8250252,Donegal Head,2023-08-26,Weekend,15:54,6,147,Humpback,Travel,no,1,Rec. Fishing,no,Slow/Med.,2,4,3,2,100,406.4
+87,186.14,50.6255013,-126.8247884,Donegal Head,2023-08-29,Weekday,8:14,1,148,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,1,4,1,11,100,86.14
+520,611.56,50.6255679,-126.8247298,Donegal Head,2023-08-29,Weekday,8:25,1,148,Humpback,Travel,no,0,Commercial,no,Slow/Med.,3,2,1,11,100,511.56
+715,817.24,50.6255679,-126.8247298,Donegal Head,2023-08-29,Weekday,9:18,2,149,Humpback,Foraging,no,0,Rec. Non-Fishing,no,Fast,1,2,1,2,100,717.24
+576,661.22,50.6255679,-126.8247298,Donegal Head,2023-08-29,Weekday,9:35,3,150,Humpback,Travel,no,0,Rec. Fishing,no,Idle,1,14,1,19,100,561.22
+444,544.11,50.6255679,-126.8247298,Donegal Head,2023-08-29,Weekday,9:38,3,150,Humpback,Travel,no,0,Rec. Fishing,no,Fast,2,3,1,19,100,444.11
+760,887.62,50.6255679,-126.8247298,Donegal Head,2023-08-29,Weekday,9:41,3,150,Humpback,Travel,no,0,Rec. Fishing,no,Slow/Med.,3,2,1,19,100,787.62
+781,911.87,50.6255679,-126.8247298,Donegal Head,2023-08-29,Weekday,9:49,3,150,Humpback,Travel,no,0,Rec. Fishing,no,Idle,5,5,1,19,100,811.87
+509,605.22,50.6255679,-126.8247298,Donegal Head,2023-08-29,Weekday,9:54,3,150,Humpback,Travel,no,0,Commercial,no,Slow/Med.,6,2,1,19,100,505.22
